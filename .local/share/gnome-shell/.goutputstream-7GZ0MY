@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="sqlitebrowser.desktop" open-window-count="0" score="0" last-seen="1472964230"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="67" last-seen="1473212015"/>
+    <application id="wireshark.desktop" open-window-count="0" score="27" last-seen="1472993935"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="13" last-seen="1472994027"/>
+  </context>
+</application-state>

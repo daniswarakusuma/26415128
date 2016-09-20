@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+>Log Session: Tuesday, September 13, 2016 8:57:27 PM PDT
+>System Info: 
+  Product Version         = Maltego Kali Linux 20141107-unknown-revn
+  Operating System        = Linux version 4.3.0-kali1-amd64 running on amd64
+  Java; VM; Vendor        = 1.7.0_91; OpenJDK 64-Bit Server VM 24.91-b01; Oracle Corporation
+  Runtime                 = OpenJDK Runtime Environment 1.7.0_91-b02
+  Java Home               = /usr/lib/jvm/java-7-openjdk-amd64/jre
+  System Locale; Encoding = en_US (maltego); UTF-8
+  Home Directory          = /root
+  Current Directory       = /usr/share/maltego/bin
+  User Directory          = /root/.maltego/v3.6.1BT
+  Cache Directory         = /root/.maltego/v3.6.1BT/var/cache
+  Installation            = /usr/share/maltego/maltego
+                            /usr/share/maltego/extide
+                            /usr/share/maltego/groovy
+                            /usr/share/maltego/ide
+                            /usr/share/maltego/java
+                            /usr/share/maltego/maltego-ui
+                            /usr/share/maltego/maltego-core-platform
+                            /usr/share/maltego/platform
+  Boot & Ext. Classpath   = /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/dnsns.jar
+  Application Classpath   = /usr/share/maltego/platform/lib/boot.jar:/usr/share/maltego/platform/lib/org-openide-modules.jar:/usr/share/maltego/platform/lib/org-openide-util.jar:/usr/share/maltego/platform/lib/org-openide-util-lookup.jar:/usr/lib/jvm/default-java/lib/dt.jar:/usr/lib/jvm/default-java/lib/tools.jar
+  Startup Classpath       = /usr/share/maltego/platform/core/org-openide-filesystems.jar:/usr/share/maltego/platform/core/core.jar:/usr/share/maltego/maltego/core/locale/core_maltego.jar
+-------------------------------------------------------------------------------
+WARNING [org.netbeans.core.modules]: module y does not declare OpenIDE-Module-Public-Packages in its manifest, so all packages are considered public by default: http://bits.netbeans.org/dev/javadoc/org-openide-modules/org/openide/modules/doc-files/api.html#how-vers
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.editor.lib] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.

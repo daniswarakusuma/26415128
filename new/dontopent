@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<string.h
+class queue
+{
+private:
+string input;
+int head,tail;
+public:
+queue(){head=0;tail=-1;}
+bool isfull()
+{if(tail>=max-1)return true;else return false;}
+bool isempty()
+{if(head>tail)return true;else return false;}
+}

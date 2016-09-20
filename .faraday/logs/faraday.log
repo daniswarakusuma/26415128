@@ -1,0 +1,56 @@
+2016-09-13 21:01:45,124 - faraday.launcher - INFO - Starting Faraday IDE.
+2016-09-13 21:01:45,125 - faraday.launcher - INFO - Dependencies met.
+2016-09-13 21:01:45,125 - faraday.launcher - INFO - Checking configuration.
+2016-09-13 21:01:45,125 - faraday.launcher - INFO - Setting up plugins.
+2016-09-13 21:01:45,125 - faraday.launcher - INFO - Removing old plugins folder
+2016-09-13 21:01:45,126 - faraday.launcher - INFO - Starting Faraday IDE.
+2016-09-13 21:01:45,126 - faraday.launcher - INFO - Dependencies met.
+2016-09-13 21:01:45,126 - faraday.launcher - INFO - Checking configuration.
+2016-09-13 21:01:45,126 - faraday.launcher - INFO - Setting up plugins.
+2016-09-13 21:01:45,126 - faraday.launcher - INFO - No plugins folder detected. Creating new one.
+2016-09-13 21:01:45,304 - faraday.launcher - INFO - Setting up Qt configuration.
+2016-09-13 21:01:45,740 - faraday.launcher - INFO - Setting up ZSH integration.
+2016-09-13 21:01:45,777 - faraday.launcher - INFO - Setting up  user configuration.
+2016-09-13 21:01:45,778 - faraday.launcher - INFO - Copying default configuration from project.
+2016-09-13 21:01:45,788 - faraday.launcher - INFO - Setting up libraries.
+2016-09-13 21:01:45,790 - faraday.launcher - INFO - x86_64 linux detected.
+2016-09-13 21:01:45,813 - faraday.launcher - INFO - Setting up icons for QT interface.
+2016-09-13 21:01:45,877 - faraday.launcher - INFO - Setting configuration.
+2016-09-13 21:01:45,878 - faraday.launcher - INFO - XMLRPC API Server listening on localhost:9876
+2016-09-13 21:01:45,878 - faraday.launcher - INFO - RESTful API Server listening on localhost:9977
+2016-09-13 21:01:55,857 - faraday.launcher - INFO - Starting Faraday IDE.
+2016-09-13 21:01:55,857 - faraday.launcher - INFO - Dependencies met.
+2016-09-13 21:01:55,857 - faraday.launcher - INFO - Checking configuration.
+2016-09-13 21:01:55,857 - faraday.launcher - INFO - Setting up plugins.
+2016-09-13 21:01:55,858 - faraday.launcher - INFO - Removing old plugins folder
+2016-09-13 21:01:55,901 - faraday.launcher - INFO - Setting up Qt configuration.
+2016-09-13 21:01:55,921 - faraday.launcher - INFO - Setting up ZSH integration.
+2016-09-13 21:01:55,924 - faraday.launcher - INFO - Setting up  user configuration.
+2016-09-13 21:01:55,932 - faraday.launcher - INFO - Using custom user configuration.
+2016-09-13 21:01:55,932 - faraday.launcher - INFO - Setting up libraries.
+2016-09-13 21:01:55,935 - faraday.launcher - INFO - x86_64 linux detected.
+2016-09-13 21:01:55,948 - faraday.launcher - INFO - Setting up icons for QT interface.
+2016-09-13 21:01:55,961 - faraday.launcher - INFO - Setting configuration.
+2016-09-13 21:01:55,970 - faraday.launcher - INFO - XMLRPC API Server listening on localhost:9876
+2016-09-13 21:01:55,970 - faraday.launcher - INFO - RESTful API Server listening on localhost:9977
+2016-09-13 21:01:56,425 - faraday.launcher - INFO - Starting Faraday IDE.
+2016-09-13 21:01:56,427 - faraday.launcher - INFO - Dependencies met.
+2016-09-13 21:01:56,427 - faraday.launcher - INFO - Checking configuration.
+2016-09-13 21:01:56,427 - faraday.launcher - INFO - Setting up plugins.
+2016-09-13 21:01:56,428 - faraday.launcher - INFO - Removing old plugins folder
+2016-09-13 21:01:56,473 - faraday.launcher - INFO - Setting up Qt configuration.
+2016-09-13 21:01:56,493 - faraday.launcher - INFO - Setting up ZSH integration.
+2016-09-13 21:01:56,504 - faraday.launcher - INFO - Setting up  user configuration.
+2016-09-13 21:01:56,504 - faraday.launcher - INFO - Using custom user configuration.
+2016-09-13 21:01:56,504 - faraday.launcher - INFO - Setting up libraries.
+2016-09-13 21:01:56,511 - faraday.launcher - INFO - x86_64 linux detected.
+2016-09-13 21:01:56,536 - faraday.launcher - INFO - Setting up icons for QT interface.
+2016-09-13 21:01:56,547 - faraday.launcher - INFO - Setting configuration.
+2016-09-13 21:01:56,560 - faraday.launcher - INFO - XMLRPC API Server listening on localhost:9876
+2016-09-13 21:01:56,567 - faraday.launcher - INFO - RESTful API Server listening on localhost:9977
+2016-09-13 21:01:58,177 - faraday.launcher - INFO - All done. Opening environment.
+2016-09-13 21:01:58,187 - faraday.launcher - INFO - All done. Opening environment.
+2016-09-13 21:01:59,953 - faraday.launcher - WARNING - Main application ExceptHook enabled.
+2016-09-13 21:01:59,953 - faraday.launcher - INFO - Starting main application.
+2016-09-13 21:01:59,961 - faraday.MainApplication - INFO - Your last workspace (untitled) wasn't accessible, check configuration...
+2016-09-13 21:02:00,656 - faraday - INFO - Please configure Couchdb for fancy HTML5 Dashboard (https://github.com/infobyte/faraday/wiki/Couchdb)
