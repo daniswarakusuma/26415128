@@ -1,0 +1,218 @@
+    1  up eth0
+    2  --help
+    3  help
+    4  cd ..
+    5  ls
+    6  nano etc/apt/sources.list
+    7  apt-get update
+    8  apt-install wiresharl
+    9  apt install wireshark
+   10  wireshark
+   11  aircrack
+   12  cd root
+   13  help
+   14  aircrack-ng
+   15  aircrack-ng -a-l <.cap / TanAmelliaR
+   16  aircrack-ng -a-l  / TanAmelliaR
+   17  aircrack-ng -a-l  /  wpa2 -S
+   18  exit
+   19  historty
+   20  history
+   21  halt
+   22  ls
+   23  apt-get install wine
+   24  wine
+   25  wine PROGRAM office
+   26  ipconfig
+   27  ifconfig
+   28  bring up eth0
+   29  halt
+   30  airmon -ng
+   31  airmon
+   32  aicrack -ng
+   33  aircrak -ng
+   34  cd ..
+   35  airmon -ng
+   36  airmon
+   37  aircrack -ng
+   38  aircrack
+   39  aircrack-ng
+   40  airmon-ng
+   41  airmon-ng start wlan0
+   42  airodump-ng mon0
+   43  airodump-ng mon()
+   44  airodump-ng mon
+   45  exit
+   46  aircrack -ng
+   47  cd ..
+   48  aircrack -ng
+   49  ls
+   50  etc
+   51  cd etc
+   52  ls
+   53  exit
+   54  export PS1="[\u@\h:\w]>\$ "
+   55  clear
+   56  exit
+   57  export PS1="[\u@\h:\w]>\$ "
+   58  clear
+   59  sudo
+   60  sudo -i
+   61  ls
+   62  ls -a
+   63  mkdir new
+   64  cd new
+   65  leafpad dontopent
+   66  vi dontopent
+   67  wireshark
+   68  aircrack
+   69  ls
+   70  maltego
+   71  metasploit framework
+   72  metasploitframework
+   73  iceweasel
+   74  aircrack-ng
+   75  aircrack-ng -w -E
+   76  --help
+   77  aircrack-ng ---help
+   78  aircrack-ng --help
+   79  faraday IDE
+   80  faradayIDE
+   81  faraday
+   82  cd danis
+   83  mkdir danis
+   84  cd danis
+   85  vi danis.txt
+   86  mv danis.txt danis/fck.txt
+   87  mv danis.txt fck.txt
+   88  cd
+   89  ls
+   90  cd danis
+   91  mv danis.txt fck.txt
+   92  ls
+   93  leafpad danis.txt
+   94  ls
+   95  mv danis.txt danis/fck.txt
+   96  mv danis.txt fck.txt
+   97  ls
+   98  cp fck.txt ../fck.txt
+   99  cd ..
+  100  ls
+  101  ping 8.8.8.8
+  102  ipconfig
+  103  ifconfig
+  104  select lo; ls
+  105  help
+  106  lo
+  107  select lo
+  108  cd depot
+  109  mkdir depot
+  110  cd depot
+  111  mkdir makanan
+  112  mkdir minuman
+  113  cd makanan
+  114  leafpad berat.txt
+  115  cd ..
+  116  cd minuman
+  117  leafpad air.txt
+  118  ls
+  119  cd ..
+  120  cd makanan
+  121  ls
+  122  cd ..
+  123  mv depot restoku
+  124  ls
+  125  cd restoku
+  126  cd makanan
+  127  rmc beras.txt
+  128  rmv beras.txt
+  129  rm beras.txt
+  130  ls
+  131  rm berat.txt
+  132  ls
+  133  leafpad nasgor.txt
+  134  ls
+  135  vi beras.txt
+  136  history> danis.txt
+  137  ls
+  138  leafpad danis.txt
+  139  vi nasgor.txt
+  140  exit
+  141  halt
+  142  ping 8.8.8.8
+  143  echo "# TOS" >> README.md
+  144  git init
+  145  git add README.md
+  146  git commit -m "first commit"
+  147  git remote add origin https://github.com/daniswarakusuma/TOS.git
+  148  git push -u origin master
+  149  airmon -ng
+  150  airmon-ng
+  151  ping 8.8.8.8 -t
+  152  ping 8.8.8.8
+  153  airmon-ng
+  154  airmon-ng start wlan0
+  155  kill 583
+  156  kill 927
+  157  kill 650
+  158  kill 1614
+  159  airodump-ng mon0
+  160  airodump-ng mon1
+  161  ls
+  162  mkdir test
+  163  cd test
+  164  mkdir testt
+  165  cd tesst
+  166  cd tesstt
+  167  cd testt
+  168  cd ..
+  169  pwd
+  170  rmdir testt
+  171  rm fck.txt
+  172  vim
+  173  nano etc/apt/sources.list
+  174  cd ..
+  175  nano etc/apt/sources.list
+  176  history>test_file_handling.txt
+  177  nano test_file_handling.txt
+  178  cd root
+  179  git commit -m "test_file_handling.txt"
+  180  git init
+  181  git add test_file_handling.txt
+  182  ls
+  183  cd readme.md
+  184  cd README.md
+  185  vi README.md
+  186  git clone https://github.com/daniswarakusuma/test-update
+  187  git clone https://github.com/daniswarakusuma/TOS
+  188  git remote -v
+  189  git status
+  190  git add test_file_handling.txt
+  191  ls
+  192  cd ..
+  193  ls
+  194  cp root/test_file_handling.txt
+  195  cp test_file_handling.txt root
+  196  cd root
+  197  ls
+  198  git add test_file_handling.txt
+  199  git commit -m
+  200  git commit
+  201  git commit -m "second commit"
+  202  git remote add origin https://github.com/daniswarakusuma/TOS.git
+  203  git remote add test1 https://github.com/daniswarakusuma/TOS.git
+  204  git push -u test1 branch
+  205  git push -u test1 master
+  206  ls
+  207  halt
+  208  git push origin --force
+  209  ls
+  210  echo "#" danis.txt
+  211  ls
+  212  strings filehandling2.txt.save
+  213  grep "git" filehandling2.txt
+  214  grep "cd" filehandling2.txt
+  215  wc filehandling2.txt
+  216  uniq
+  217  uniq filehandling2.txt
+  218  history>texteditor.txt
